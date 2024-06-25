@@ -5,6 +5,8 @@ VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson1 Basic Grammar", "Lesson1 Basic Grammar\Lesson1 Basic Grammar.csproj", "{F2EE591D-56A8-455F-B9A3-1D390B26FF97}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson2 Variable and Data Type", "Lesson2 Variable and Data Type\Lesson2 Variable and Data Type.csproj", "{20EF3454-5B4F-4119-8B50-3A1BE8FC5883}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F2EE591D-56A8-455F-B9A3-1D390B26FF97}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2EE591D-56A8-455F-B9A3-1D390B26FF97}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2EE591D-56A8-455F-B9A3-1D390B26FF97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20EF3454-5B4F-4119-8B50-3A1BE8FC5883}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20EF3454-5B4F-4119-8B50-3A1BE8FC5883}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20EF3454-5B4F-4119-8B50-3A1BE8FC5883}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20EF3454-5B4F-4119-8B50-3A1BE8FC5883}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

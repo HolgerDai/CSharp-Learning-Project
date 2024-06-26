@@ -10,6 +10,7 @@
 //  代码->VS2022先编译为程序集,有两种：exe文件可直接执行；dll文件不可执行，只供引用其中代码
 //  当程序集运行时，计算机系统将程序集编译为机器指令
 //  注意：由于C#是先编译为程序集，程序集是必须在.Net框架下运行的；而一些其他语言直接编译为机器代码的，系统可直接执行
+//6.C#中快捷复制行的快捷键 光标放至某行后 Ctrl+D
 
 //类
 internal class Program
@@ -51,5 +52,11 @@ internal class Program
         //反斜杠本身可代表转义，比如想要输出反斜杠本身或者双引号需要使用\
         Console.WriteLine("Hello \\");
         Console.WriteLine("Hello \"");
+
+        //测试Ctrl+D快捷复制行
+        Console.WriteLine("Hello World");
+        Console.WriteLine("Hello World");
+        Console.WriteLine("Hello World");
+
     }
 }

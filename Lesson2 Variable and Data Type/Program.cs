@@ -1,7 +1,7 @@
 ﻿//本程序中包含以下内容
 //1.C#中变量的申明方法 数据类型 + 变量名
 //2.C#中数据类型
-//  int 整型（默认32位） double 浮点型 char 字符型(注意C#中，char的赋值必须用单引号)
+//  int 整型（默认32位） double 浮点型 char 字符型(注意C#中，char的赋值必须用单引号) bool 布尔类型(输出为True/False)
 //  C#中每个数据类型都有默认大小的，比如int为32位，则可以赋值的范围为：-2147483648~2147483647(其他类型可百度搜索)
 //3.字符型与对应的ASCII码，比如a对应77
 //*声明一个整型存放ASCll码，可强制转换为char型赋值给char 强转:(char)
@@ -46,6 +46,12 @@ internal class Program
         int num = 97;
         char chara = (char)num;
         Console.WriteLine(chara);
+
+        //布尔类型
+        bool testBool1 = true;
+        bool testBool2 = false;
+        Console.WriteLine(testBool1);
+        Console.WriteLine(testBool2);
 
     }
 }

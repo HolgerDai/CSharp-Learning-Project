@@ -5,8 +5,7 @@
 //  相加就是拼接 +
 //4.得到用户在控制台输入的字符串 Console.ReadLine
 //5.得到用户输入的字符串后，转为Int Convert.Toint32()
-//6.字符串格式化输出
-
+//6.字符串格式化输出，替代标记用大括号索引 Console.WriteLine("{0},{1},{2}",a,b,c)
 
 internal class Program
 {
@@ -34,6 +33,11 @@ internal class Program
         userinput = Console.ReadLine();
         int num = Convert.ToInt32(userinput);
         Console.WriteLine(num);
-  
+
+        //字符串格式化输出,用大括号索引
+        char a = 'a';
+        char b = 'b';
+        string c = "test";
+        Console.WriteLine("{0},{1},{2}", a, b, c);
     }
 }

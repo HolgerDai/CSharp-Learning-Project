@@ -1,6 +1,7 @@
 ﻿//本程序中包含以下内容
-//1.C#中的If条件语句写法为，if(条件){}，不需要endif
-//2.
+//1.C#中的if条件语句写法为，if(条件){}，不需要endif
+//2.C#中的switch条件语句的写法为，switch(变量){ case X: +break default}，默认判断相等
+//  switch中，除了case，还有default，类似else
 
 
 internal class Program
@@ -32,7 +33,28 @@ internal class Program
         {
             Console.WriteLine("E");
         }
-    
+
+        //饮料机售货程序
+        Console.WriteLine("请输入您想购买的饮料编号:");
+        int waterId= Convert.ToInt32(Console.ReadLine());
+
+        //C#中，switch条件语句的写法为，switch(变量){ case X: +break},默认判断相等
+        switch (waterId)
+        {
+            case 1:
+                Console.WriteLine("矿泉水");
+                break;
+            case 2:
+                Console.WriteLine("雪碧");
+                break;
+            case 3:
+                Console.WriteLine("可乐");
+                break;
+            default:
+                Console.WriteLine("没有您要购买的商品");
+                break;
+        }
+
     }
     
 }

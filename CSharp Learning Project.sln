@@ -13,11 +13,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson4 Calculation", "Less
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson5 Conditional Sentences", "Lesson5 Conditional Sentences\Lesson5 Conditional Sentences.csproj", "{EDAADF92-13AB-4DF7-AFDC-3893B00DE6C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson6 Loop Sentences", "Lesson6 Loop Sentences\Lesson6 Loop Sentences.csproj", "{D77DC495-854C-4E1C-B9B6-FCBFCBF3A90F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson6 Loop Sentences", "Lesson6 Loop Sentences\Lesson6 Loop Sentences.csproj", "{D77DC495-854C-4E1C-B9B6-FCBFCBF3A90F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson7 Random", "Lesson7 Random\Lesson7 Random.csproj", "{7F93548A-8E83-4EEA-A14D-DADE8DFE81EC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson7 Random", "Lesson7 Random\Lesson7 Random.csproj", "{7F93548A-8E83-4EEA-A14D-DADE8DFE81EC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson8 Array", "Lesson8 Array\Lesson8 Array.csproj", "{2F129C5F-C386-481B-8497-A6402F0C516B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson8 Array", "Lesson8 Array\Lesson8 Array.csproj", "{2F129C5F-C386-481B-8497-A6402F0C516B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson9 Sort", "Lesson9 Sort\Lesson9 Sort.csproj", "{D675C20C-B69B-4734-9253-9868464674B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Draft", "Draft\Draft.csproj", "{6285E654-FA94-4168-B1A4-F8C377133ADB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +61,14 @@ Global
 		{2F129C5F-C386-481B-8497-A6402F0C516B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F129C5F-C386-481B-8497-A6402F0C516B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F129C5F-C386-481B-8497-A6402F0C516B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D675C20C-B69B-4734-9253-9868464674B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D675C20C-B69B-4734-9253-9868464674B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D675C20C-B69B-4734-9253-9868464674B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D675C20C-B69B-4734-9253-9868464674B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6285E654-FA94-4168-B1A4-F8C377133ADB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6285E654-FA94-4168-B1A4-F8C377133ADB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6285E654-FA94-4168-B1A4-F8C377133ADB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6285E654-FA94-4168-B1A4-F8C377133ADB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

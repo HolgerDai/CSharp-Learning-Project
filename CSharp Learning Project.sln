@@ -3,27 +3,27 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. Basic Grammar", "Lesson1 Basic Grammar\1. Basic Grammar.csproj", "{F2EE591D-56A8-455F-B9A3-1D390B26FF97}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson001. Basic Grammar", "Lesson1 Basic Grammar\Lesson001. Basic Grammar.csproj", "{F2EE591D-56A8-455F-B9A3-1D390B26FF97}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson2 Variable and Data Type", "Lesson2 Variable and Data Type\Lesson2 Variable and Data Type.csproj", "{20EF3454-5B4F-4119-8B50-3A1BE8FC5883}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson002 Variable and Data Type", "Lesson2 Variable and Data Type\Lesson002 Variable and Data Type.csproj", "{20EF3454-5B4F-4119-8B50-3A1BE8FC5883}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson3 String", "Lesson3 String\Lesson3 String.csproj", "{A9420A19-28AD-45B4-A347-AA7C993AF33C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson003 String", "Lesson3 String\Lesson003 String.csproj", "{A9420A19-28AD-45B4-A347-AA7C993AF33C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson4 Calculation", "Lesson4 Calculation\Lesson4 Calculation.csproj", "{F5E70D40-E7D4-4B5B-8746-BBED128A2B66}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson004 Calculation", "Lesson4 Calculation\Lesson004 Calculation.csproj", "{F5E70D40-E7D4-4B5B-8746-BBED128A2B66}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson5 Conditional Sentences", "Lesson5 Conditional Sentences\Lesson5 Conditional Sentences.csproj", "{EDAADF92-13AB-4DF7-AFDC-3893B00DE6C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson005 Conditional Sentences", "Lesson5 Conditional Sentences\Lesson005 Conditional Sentences.csproj", "{EDAADF92-13AB-4DF7-AFDC-3893B00DE6C7}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson6 Loop Sentences", "Lesson6 Loop Sentences\Lesson6 Loop Sentences.csproj", "{D77DC495-854C-4E1C-B9B6-FCBFCBF3A90F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson006 Loop Sentences", "Lesson6 Loop Sentences\Lesson006 Loop Sentences.csproj", "{D77DC495-854C-4E1C-B9B6-FCBFCBF3A90F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson7 Random", "Lesson7 Random\Lesson7 Random.csproj", "{7F93548A-8E83-4EEA-A14D-DADE8DFE81EC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson007 Random", "Lesson7 Random\Lesson007 Random.csproj", "{7F93548A-8E83-4EEA-A14D-DADE8DFE81EC}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson8 Array", "Lesson8 Array\Lesson8 Array.csproj", "{2F129C5F-C386-481B-8497-A6402F0C516B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson008 Array", "Lesson8 Array\Lesson008 Array.csproj", "{2F129C5F-C386-481B-8497-A6402F0C516B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson9 Sort", "Lesson9 Sort\Lesson9 Sort.csproj", "{D675C20C-B69B-4734-9253-9868464674B5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson009 Sort", "Lesson9 Sort\Lesson009 Sort.csproj", "{D675C20C-B69B-4734-9253-9868464674B5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.Draft", "Draft\0.Draft.csproj", "{6285E654-FA94-4168-B1A4-F8C377133ADB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.Function", "Lesson10 Function\11.Function.csproj", "{C908AFF3-2196-4534-B9BA-5A38AA7745D1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson010.Function", "Lesson10 Function\Lesson010.Function.csproj", "{C908AFF3-2196-4534-B9BA-5A38AA7745D1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

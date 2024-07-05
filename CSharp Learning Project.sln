@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson1 Basic Grammar", "Lesson1 Basic Grammar\Lesson1 Basic Grammar.csproj", "{F2EE591D-56A8-455F-B9A3-1D390B26FF97}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. Basic Grammar", "Lesson1 Basic Grammar\1. Basic Grammar.csproj", "{F2EE591D-56A8-455F-B9A3-1D390B26FF97}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson2 Variable and Data Type", "Lesson2 Variable and Data Type\Lesson2 Variable and Data Type.csproj", "{20EF3454-5B4F-4119-8B50-3A1BE8FC5883}"
 EndProject
@@ -21,7 +21,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson8 Array", "Lesson8 Ar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson9 Sort", "Lesson9 Sort\Lesson9 Sort.csproj", "{D675C20C-B69B-4734-9253-9868464674B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Draft", "Draft\Draft.csproj", "{6285E654-FA94-4168-B1A4-F8C377133ADB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.Draft", "Draft\0.Draft.csproj", "{6285E654-FA94-4168-B1A4-F8C377133ADB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.Function", "Lesson10 Function\11.Function.csproj", "{C908AFF3-2196-4534-B9BA-5A38AA7745D1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{6285E654-FA94-4168-B1A4-F8C377133ADB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6285E654-FA94-4168-B1A4-F8C377133ADB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6285E654-FA94-4168-B1A4-F8C377133ADB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C908AFF3-2196-4534-B9BA-5A38AA7745D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C908AFF3-2196-4534-B9BA-5A38AA7745D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C908AFF3-2196-4534-B9BA-5A38AA7745D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C908AFF3-2196-4534-B9BA-5A38AA7745D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

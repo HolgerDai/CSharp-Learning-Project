@@ -9,8 +9,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp0001_Lesson_Basic Gra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp0002_Lesson_Variable and Data Type", "CSharp0002_Lesson_Variable and Data Type\CSharp0002_Lesson_Variable and Data Type.csproj", "{9E096960-CCF6-4AC9-8BEC-275929DDB672}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp0010-Function", "CSharp0010-Function\CSharp0010-Function.csproj", "{01CFB71D-DBBF-4AD0-A760-329110C99724}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp0003_Lesson_String", "CSharp0003_Lesson_String\CSharp0003_Lesson_String.csproj", "{0A3F1414-F80C-4508-8B22-89FFA66CBC42}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp0004_Lesson_Calculation", "CSharp0004_Lesson_Calculation\CSharp0004_Lesson_Calculation.csproj", "{36026C54-670B-4224-BF63-F43AB4A4C2D8}"
@@ -45,10 +43,6 @@ Global
 		{9E096960-CCF6-4AC9-8BEC-275929DDB672}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E096960-CCF6-4AC9-8BEC-275929DDB672}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E096960-CCF6-4AC9-8BEC-275929DDB672}.Release|Any CPU.Build.0 = Release|Any CPU
-		{01CFB71D-DBBF-4AD0-A760-329110C99724}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{01CFB71D-DBBF-4AD0-A760-329110C99724}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{01CFB71D-DBBF-4AD0-A760-329110C99724}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{01CFB71D-DBBF-4AD0-A760-329110C99724}.Release|Any CPU.Build.0 = Release|Any CPU
 		{0A3F1414-F80C-4508-8B22-89FFA66CBC42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{0A3F1414-F80C-4508-8B22-89FFA66CBC42}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A3F1414-F80C-4508-8B22-89FFA66CBC42}.Release|Any CPU.ActiveCfg = Release|Any CPU

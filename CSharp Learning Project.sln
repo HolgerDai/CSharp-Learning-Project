@@ -5,25 +5,27 @@ VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0.Draft", "Draft\0.Draft.csproj", "{6285E654-FA94-4168-B1A4-F8C377133ADB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp0001_Lesson_Basic Grammar", "CSharp0001_Lesson_Basic Grammar\CSharp0001_Lesson_Basic Grammar.csproj", "{23627E71-94D8-411B-A73C-D14F1F0C93F8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp0001_Lesson_Basic Grammar", "CSharp0001_Lesson_Basic Grammar\CSharp0001_Lesson_Basic Grammar.csproj", "{23627E71-94D8-411B-A73C-D14F1F0C93F8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp0002_Lesson_Variable and Data Type", "CSharp0002_Lesson_Variable and Data Type\CSharp0002_Lesson_Variable and Data Type.csproj", "{9E096960-CCF6-4AC9-8BEC-275929DDB672}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp0002_Lesson_Variable and Data Type", "CSharp0002_Lesson_Variable and Data Type\CSharp0002_Lesson_Variable and Data Type.csproj", "{9E096960-CCF6-4AC9-8BEC-275929DDB672}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp0003_Lesson_String", "CSharp0003_Lesson_String\CSharp0003_Lesson_String.csproj", "{0A3F1414-F80C-4508-8B22-89FFA66CBC42}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp0003_Lesson_String", "CSharp0003_Lesson_String\CSharp0003_Lesson_String.csproj", "{0A3F1414-F80C-4508-8B22-89FFA66CBC42}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp0004_Lesson_Calculation", "CSharp0004_Lesson_Calculation\CSharp0004_Lesson_Calculation.csproj", "{36026C54-670B-4224-BF63-F43AB4A4C2D8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp0004_Lesson_Calculation", "CSharp0004_Lesson_Calculation\CSharp0004_Lesson_Calculation.csproj", "{36026C54-670B-4224-BF63-F43AB4A4C2D8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp0005_Lesson_Conditional Sentences", "CSharp0005_Lesson_Conditional Sentences\CSharp0005_Lesson_Conditional Sentences.csproj", "{138B7916-2189-4C59-837B-AAA16E75DD22}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp0005_Lesson_Conditional Sentences", "CSharp0005_Lesson_Conditional Sentences\CSharp0005_Lesson_Conditional Sentences.csproj", "{138B7916-2189-4C59-837B-AAA16E75DD22}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp0006_Lesson_Loop Sentences", "CSharp0006_Lesson_Loop Sentences\CSharp0006_Lesson_Loop Sentences.csproj", "{32FD9E9E-7AC4-4380-92D2-C8D48B40D5C0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp0006_Lesson_Loop Sentences", "CSharp0006_Lesson_Loop Sentences\CSharp0006_Lesson_Loop Sentences.csproj", "{32FD9E9E-7AC4-4380-92D2-C8D48B40D5C0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp0007_Lesson_Random", "CSharp0007_Lesson_Random\CSharp0007_Lesson_Random.csproj", "{F0E22968-F72A-4428-B736-E25FFD0FD78C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp0007_Lesson_Random", "CSharp0007_Lesson_Random\CSharp0007_Lesson_Random.csproj", "{F0E22968-F72A-4428-B736-E25FFD0FD78C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp0008_Lesson_Array", "CSharp0008_Lesson_Array\CSharp0008_Lesson_Array.csproj", "{F2546726-BE61-47A9-8AAD-7885B778F5E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp0008_Lesson_Array", "CSharp0008_Lesson_Array\CSharp0008_Lesson_Array.csproj", "{F2546726-BE61-47A9-8AAD-7885B778F5E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp0009_Lesson_Sort", "CSharp0009_Lesson_Sort\CSharp0009_Lesson_Sort.csproj", "{CD396215-8412-456F-A8A9-306BE3C1815B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp0009_Lesson_Sort", "CSharp0009_Lesson_Sort\CSharp0009_Lesson_Sort.csproj", "{CD396215-8412-456F-A8A9-306BE3C1815B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp0010_Lesson_Function", "CSharp0010_Lesson_Function\CSharp0010_Lesson_Function.csproj", "{A2728D9C-5FC7-4C27-9883-CE6F857005DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp0010_Lesson_Function", "CSharp0010_Lesson_Function\CSharp0010_Lesson_Function.csproj", "{A2728D9C-5FC7-4C27-9883-CE6F857005DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp0011_Lesson_Parameters Array", "CSharp0011_Lesson_Parameters Array\CSharp0011_Lesson_Parameters Array.csproj", "{4098093D-8770-4393-82E3-F5D862504F72}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{A2728D9C-5FC7-4C27-9883-CE6F857005DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2728D9C-5FC7-4C27-9883-CE6F857005DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A2728D9C-5FC7-4C27-9883-CE6F857005DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4098093D-8770-4393-82E3-F5D862504F72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4098093D-8770-4393-82E3-F5D862504F72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4098093D-8770-4393-82E3-F5D862504F72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4098093D-8770-4393-82E3-F5D862504F72}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

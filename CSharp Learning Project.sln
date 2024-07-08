@@ -27,6 +27,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp0010_Lesson_Function"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp0011_Lesson_Parameters Array", "CSharp0011_Lesson_Parameters Array\CSharp0011_Lesson_Parameters Array.csproj", "{4098093D-8770-4393-82E3-F5D862504F72}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp0012_Lesson_Overload", "CSharp0012_Lesson_Overload\CSharp0012_Lesson_Overload.csproj", "{D1B08F0E-4DB1-4C3F-BA4D-BCFEB77A3765}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{4098093D-8770-4393-82E3-F5D862504F72}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4098093D-8770-4393-82E3-F5D862504F72}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4098093D-8770-4393-82E3-F5D862504F72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1B08F0E-4DB1-4C3F-BA4D-BCFEB77A3765}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1B08F0E-4DB1-4C3F-BA4D-BCFEB77A3765}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1B08F0E-4DB1-4C3F-BA4D-BCFEB77A3765}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1B08F0E-4DB1-4C3F-BA4D-BCFEB77A3765}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
